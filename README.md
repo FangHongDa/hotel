@@ -66,4 +66,4 @@
 ![作者微信](https://gitee.com/xiaoxinlai/book-system/raw/master/xunmaw001.jpg)
 
 这是作者的公众号二维码，时不时会推一些新开发的项目源码与高效软件工具，感兴趣的朋友给个关注  
-![作者公众号](https://gitee.com/xiaoxinlai/book-system/raw/master/xunmaw%E5%85%AC%E4%BC%97%E5%8F%B7.jpg)
+![作者公众号](https://gitee.com/xiaoxinlai/book-system/raw/master/xunmaw%E5%85%AC%E4%BC%97%E5%8F%B7.jpg) 
