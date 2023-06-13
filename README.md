@@ -57,7 +57,7 @@
 2. 修改jdbc数据库连接参数
 3. 下载安装maven依赖jar
 4. 在tomcat服务器部署项目  
-    请求地址： http://localhost:8080/house
+    请求地址： http://localhost:8080/house  
     用户名：admin  
     密码：123456  
 
